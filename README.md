@@ -3,3 +3,8 @@ Adding to second line by Anaet
 # test-for-rebase
 
 ### test1
+# test-for-rebase
+##
+test 2
+
+### test1
